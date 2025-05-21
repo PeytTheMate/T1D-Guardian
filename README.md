@@ -112,7 +112,7 @@ We welcome contributions to T1D-Guardian! Please see our [CONTRIBUTING.md](CONTR
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
+- See this Notion site for the full methodology: https://everlasting-coriander-906.notion.site/T1D_Blockchain-Documentation-1f96670fd54880fca7bce71a19c6da13
 - This project was inspired by the need for privacy-preserving health data analytics
 - Special thanks to the diabetes tech community
 - "You can have 99 problems, but when you have a terminal health problem, you can only have 1" - idk probably an Insta Reel I saw lol
