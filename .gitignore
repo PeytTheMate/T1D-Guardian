@@ -1,0 +1,132 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Distribution / packaging
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sensitive data and credentials
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/*.pem
+**/*.key
+*.p8
+*.p12
+**/*_private_key*
+**/*_secret*
+credentials.json
+client_secret.json
+service_account.json
+google-services.json
+*.der
+*.pfx
+*.crt
+
+# Local configuration
+config.local.yaml
+local_settings.py
+instance/
+
+# User data and logs
+*.log
+logs/
+*.csv
+*.json
+*.bin
+*.db
+*.sqlite
+*.sqlite3
+
+# Blockchain and encryption data
+# Blockchain private keys and keystores
+keystores/
+**/keystore/
+**/keys/
+*wallet*
+
+# Encrypted data files
+*.enc
+*.encrypted
+t1d_guardian_key.bin
+t1d_predictions.bin
+t1d_blockchain_audit_log.json
+t1d_audit_log.json
+
+# Patient data files
+patient_data/
+dexcom_exports/
+CGM_data/
+health_data/
+
+# Application state and caches
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# Temporary and build files
+temp/
+tmp/
+.temp/
+.tmp/
+**/node_modules/
+**/build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific files
+# Any additional files that might contain sensitive data
+.replit
